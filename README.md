@@ -1,2 +1,2 @@
 # TheTranscriptShow
-Repo for blog files
+Repo for blog files of transcriptshow.blogspot.com
