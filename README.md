@@ -1,2 +1,3 @@
 # The Transcript Show
-Repo for blog files of transcriptshow.blogspot.com
+
+Repository for blog files of transcriptshow.blogspot.com
